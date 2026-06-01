@@ -1,6 +1,8 @@
 # FoE-Tab-Tool-v1.1
 A small browser extension to rename FoE tabs and provide quick links to data sites for each world
 
+v2.0, which adds emoji notifications to the tab, can be found here: https://github.com/UBERnerd14/FoE-Tab-Tool-v2.0
+
 ## Installation
 The easiest way to install:
 1. Download the `FoE Tab Renamer v1.1.zip` file
